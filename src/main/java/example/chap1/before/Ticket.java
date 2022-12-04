@@ -1,4 +1,4 @@
-package example.chap1;
+package example.chap1.before;
 
 public class Ticket {
   private Long fee;
